@@ -92,3 +92,7 @@ ENV/
 
 .DS_Store
 .pytest_cache/*
+
+*.mha
+*.nii.gz
+*.png
